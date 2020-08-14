@@ -14,7 +14,18 @@ footer{
  }
 
 .logo{
-
   max-height: 10vh;
 }
 
+.text-shadow{
+  text-shadow: 1px 1px black;
+}
+
+.hero-image{
+
+  background-image: url("/hero.jpg");
+}
+
+.image-text{
+  border-left: 1px solid black;
+}
