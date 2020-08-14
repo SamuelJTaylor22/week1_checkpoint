@@ -29,3 +29,16 @@ footer{
 .image-text{
   border-left: 1px solid black;
 }
+
+.box-shadow{
+  box-shadow: 1px 1px black;
+}
+
+@media (min-width: 960px) {
+  .offset-card{
+  position: absolute;
+  bottom: 0;
+  transform: translateY(10%);
+}
+}
+
