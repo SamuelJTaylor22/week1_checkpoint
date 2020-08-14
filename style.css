@@ -1,0 +1,20 @@
+body { 
+  min-height: 100vh; 
+  display: flex; 
+  flex-direction: column; 
+}
+header{
+ min-height: 10vh;
+ } 
+main{
+  flex-grow: 1;
+} 
+footer{
+  min-height: 10vh;
+ }
+
+.logo{
+
+  max-height: 10vh;
+}
+
