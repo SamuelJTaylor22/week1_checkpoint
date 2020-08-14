@@ -46,3 +46,10 @@ header{
   position: sticky;
 }
 
+.card li{
+  font-size: large;
+}
+
+.midsite-image{
+  max-height: 60vh;
+}
