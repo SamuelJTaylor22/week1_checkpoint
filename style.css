@@ -4,7 +4,7 @@ body {
   flex-direction: column; 
 }
 header{
- min-height: 10vh;
+ min-height: 5vh;
  } 
 main{
   flex-grow: 1;
@@ -14,7 +14,7 @@ footer{
  }
 
 .logo{
-  max-height: 10vh;
+  max-height: 5vh;
 }
 
 .text-shadow{
@@ -40,5 +40,9 @@ footer{
   bottom: 0;
   transform: translateY(10%);
 }
+}
+
+header{
+  position: sticky;
 }
 
